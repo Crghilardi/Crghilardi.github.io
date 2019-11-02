@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Science, Stockton University, 2013
+* M.S. in Natural Resources, University of Missouri, 2016
 
 Work experience
 ======
@@ -56,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Eagle Scout - 2006
+Classic Leadership Institute - Program #161 - Fall 2017 
