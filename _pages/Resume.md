@@ -35,12 +35,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Academic
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+Benjamin O Knapp, Samantha E Anderson, Patrick J Curtin, **Casey Ghilardi**, Robert G Rives, Can Clearcutting Reset Successional Trajectories in Upland Oak–Hickory Forests? A Case Study from Mid-Missouri, Journal of Forestry, Volume 117, Issue 5, September 2019, Pages 435–442, https://doi.org/10.1093/jofore/fvz041
+
 Talks
 ======
   <ul>{% for post in site.talks %}
