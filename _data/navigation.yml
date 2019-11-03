@@ -7,17 +7,11 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Teaching"
-    url: /teaching/ 
+  - title: "Resume"
+    url: /resume/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-        
-  - title: "Guide"
-    url: /markdown/
+    url: /talks/
