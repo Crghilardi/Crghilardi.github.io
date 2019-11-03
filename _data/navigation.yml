@@ -4,11 +4,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
-
   - title: "Resume"
     url: /resume/
+
+  - title: "Open Source Projects"
+    url: /opensource/
+
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Publications"
     url: /publications/
