@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+========
 Welcome!
 
+I am an analyst passionate about data science, geospatial technologies and open source software.
 
-
-A data-driven personal website
-======
-
-Getting started
-======

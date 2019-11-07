@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+A PDF version is available [here:](crghilardi.github.io/files/Resume_11_2019.pdf)
+
 Education
 ======
 * B.S. in Environmental Science, Stockton University, 2013
@@ -38,7 +41,7 @@ Skills
 Academic
 ======
 
-Benjamin O Knapp, Samantha E Anderson, Patrick J Curtin, **Casey Ghilardi**, Robert G Rives, Can Clearcutting Reset Successional Trajectories in Upland Oak–Hickory Forests? A Case Study from Mid-Missouri, Journal of Forestry, Volume 117, Issue 5, September 2019, Pages 435–442, https://doi.org/10.1093/jofore/fvz041
+Benjamin O Knapp, Samantha E Anderson, Patrick J Curtin, **Casey Ghilardi**, Robert G Rives, Can Clearcutting Reset Successional Trajectories in Upland Oak–Hickory Forests? A Case Study from Mid-Missouri, Journal of Forestry, Volume 117, Issue 5, September 2019, Pages 435–442, [https://doi.org/10.1093/jofore/fvz041](https://academic.oup.com/jof/advance-article-abstract/doi/10.1093/jofore/fvz041/5527930?redirectedFrom=fulltext)
 
 Talks
 ======
@@ -55,4 +58,5 @@ Teaching
 Service and leadership
 ======
 Eagle Scout - 2006
+
 Classic Leadership Institute - Program #161 - Fall 2017 
