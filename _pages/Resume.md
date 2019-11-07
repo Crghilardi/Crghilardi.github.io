@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-A PDF version is available [here:](crghilardi.github.io/files/Ghilardi_Resume_11_2019.pdf)
+{% include base_path %}
+
+A PDF version is available [here:](/files/Ghilardi_Resume_11_2019.pdf)
 
 Education
 ======
