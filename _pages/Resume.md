@@ -7,10 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-
 A PDF version is available [here:](crghilardi.github.io/files/Ghilardi_Resume_11_2019.pdf)
+
+{% include base_path %}
 
 Education
 ======
@@ -49,14 +48,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
 Eagle Scout - 2006
 
-Classic Leadership Institute - Program #161 - Fall 2017 
+[Classic Leadership Institute](https://www.classicleadershipinstitute.com/) - Program #161 - Fall 2017 
