@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-A PDF version is available [here:](crghilardi.github.io/files/Resume_11_2019.pdf)
+A PDF version is available [here:](crghilardi.github.io/files/Ghilardi_Resume_11_2019.pdf)
 
 Education
 ======
