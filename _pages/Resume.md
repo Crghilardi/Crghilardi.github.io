@@ -9,8 +9,6 @@ redirect_from:
 
 A PDF version is available [here:](crghilardi.github.io/files/Ghilardi_Resume_11_2019.pdf)
 
-{% include base_path %}
-
 Education
 ======
 * B.S. in Environmental Science, Stockton University, 2013
