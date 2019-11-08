@@ -13,36 +13,34 @@ A PDF version is available [here:](/files/Ghilardi_Resume_11_2019.pdf)
 
 Education
 ======
-* B.S. in Environmental Science, Stockton University, 2013
-* M.S. in Natural Resources, University of Missouri, 2016
+* **B.S. in Environmental Science**, Stockton University, 2013
+* **M.S. in Natural Resources**, University of Missouri, 2016
 
-Work experience
+Chronological Work Experience
 ======
-Forest Biometrics Analyst 
-PotlatchDeltic Spokane, WA
+* **Forest Biometrics Analyst**,
+PotlatchDeltic, Spokane, WA
 Dec 2018 - Aug 2019
 
-PotlatchDeltic
-Forest Inventory Analyst Spokane, WA
+* **Forest Inventory Analyst**,
+PotlatchDeltic, Spokane, WA
 November 2016 - December 2018
 
-Purdue University
-Vegetation Technician West Layfayette, IN
+* **Vegetation Technician**, 
+Purdue University, West Layfayette, IN
 May 2014 - August 2014
 
-New Jersey State Forestry Services
-Forestry Assistant New Lisbon, NJ
+* **Forestry Assistant**,
+New Jersey State Forestry Services, New Lisbon, NJ
 October 2012 - May 2014
 
-Woodrat Monitoring Technician
-Indiana, PA
-Indiana University of Pennsylvania
+* **Woodrat Monitoring Technician**,
+Indiana University of Pennsylvania, Indiana, PA
 June 2013 - August 2013
 
 
-New Jersey State Forestry Services
-Forestry Intern
-New Lisbon, NJ
+* **Forestry Intern**,
+New Jersey State Forestry Services,New Lisbon, NJ
 January 2013 - May 2013
 
   
@@ -50,10 +48,16 @@ Skills
 ======
 * Statistics
 * Databases
-  * MSSQL/T-SQL
+  * MSSQL
   * SQLite
-  * POSTgres
+  * PostgreSQL
 * Git
+* Linux
+* Geospatial
+  * ESRI ArcGIS
+  * QGIS
+  * GRASS
+  * SAGA 
 
 Academic
 ======
