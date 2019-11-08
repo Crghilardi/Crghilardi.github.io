@@ -18,24 +18,42 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Forest Biometrics Analyst 
+PotlatchDeltic Spokane, WA
+Dec 2018 - Aug 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+PotlatchDeltic
+Forest Inventory Analyst Spokane, WA
+November 2016 - December 2018
+
+Purdue University
+Vegetation Technician West Layfayette, IN
+May 2014 - August 2014
+
+New Jersey State Forestry Services
+Forestry Assistant New Lisbon, NJ
+October 2012 - May 2014
+
+Woodrat Monitoring Technician
+Indiana, PA
+Indiana University of Pennsylvania
+June 2013 - August 2013
+
+
+New Jersey State Forestry Services
+Forestry Intern
+New Lisbon, NJ
+January 2013 - May 2013
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistics
+* Databases
+  * MSSQL/T-SQL
+  * SQLite
+  * POSTgres
+* Git
 
 Academic
 ======
