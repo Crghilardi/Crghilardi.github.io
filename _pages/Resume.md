@@ -20,7 +20,7 @@ Chronological Work Experience
 ======
 * **Forest Biometrics Analyst**,
 PotlatchDeltic, Spokane, WA
-Dec 2018 - Aug 2019
+December 2018 - August 2019
 
 * **Forest Inventory Analyst**,
 PotlatchDeltic, Spokane, WA
@@ -32,7 +32,7 @@ May 2014 - August 2014
 
 * **Forestry Assistant**,
 New Jersey State Forestry Services, New Lisbon, NJ
-October 2012 - May 2014
+October 2013 - May 2014
 
 * **Woodrat Monitoring Technician**,
 Indiana University of Pennsylvania, Indiana, PA
