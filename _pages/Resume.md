@@ -14,7 +14,20 @@ A PDF version is available [here:](/files/Ghilardi_Resume_11_2019.pdf)
 Education
 ======
 * **B.S. in Environmental Science**, Stockton University, 2013
+
+Coursework included:
+ Ecological Forest Management, Dendrology, Remote Sensing, LiDAR, Statistics
+and Computers
+
+Undergraduate Independent Study, Spring 2013:
+
+Spatial Analysis of Atlantic White Cedar using Remote Sensing
+- Applied various spectral classification schemes to Landsat imagery in an attempt to
+quantify the extent of Atlantic White Cedar within New Jersey
+
 * **M.S. in Natural Resources**, University of Missouri, 2016
+
+Coursework included: Advanced Forest Ecology, Advanced Forest Biometrics, Applied Statistical Models I, Special Problems Modeling
 
 Chronological Work Experience
 ======
@@ -38,10 +51,13 @@ October 2013 - May 2014
 Indiana University of Pennsylvania, Indiana, PA
 June 2013 - August 2013
 
-
 * **Forestry Intern**,
 New Jersey State Forestry Services,New Lisbon, NJ
 January 2013 - May 2013
+
+* **Arboretum Technician**, 
+Richard Stockton College of New Jersey, Pomona, NJ
+May 2012 to May 2013
 
   
 Skills
